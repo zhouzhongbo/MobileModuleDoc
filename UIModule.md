@@ -1,6 +1,6 @@
 1.	Banner
 样式: https://github.com/youth5201314/banner
- [https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/banner_des.png]
+ ![https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/banner_des.png]
  
 跳转支持：1.存展示；2.指定页面跳转（类名or scheme）；3.Url跳转；
 源数据配置：支持多份元数据配置（同一个应用，可以配置多个banner,数据要能区分的出来）
