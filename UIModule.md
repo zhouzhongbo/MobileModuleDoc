@@ -1,7 +1,7 @@
 1.	Banner
 样式: https://github.com/youth5201314/banner
- ![https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/banner_des.png]
- 
+ ![image](https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/banner_des.png)
+  ![image](https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/banner_des2.png)
 跳转支持：1.存展示；2.指定页面跳转（类名or scheme）；3.Url跳转；
 源数据配置：支持多份元数据配置（同一个应用，可以配置多个banner,数据要能区分的出来）
 2.	TAB
@@ -27,6 +27,8 @@ https://github.com/baoyongzhang/SwipeMenuListView
 列表内容快速定位（按字母检索，联系人风格）
 
 4.	带箭头or switch的分栏视图（组合视图）
+  ![image](https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/mine_item.png)
+
 要求：分栏可支持图片，文字可配，箭头or swtich可选；
 支持行间距设置
  
@@ -34,6 +36,8 @@ https://github.com/baoyongzhang/SwipeMenuListView
 
 
 5.	我的  面板信息集成，可配
+  ![image](https://github.com/zhouzhongbo/MobileModuleDoc/blob/master/res/user_infmo_header.png)
+
 1.	需要和DroiUser绑定，并扩展相关数据字段
 2.	支持用户信息编辑修改
  
